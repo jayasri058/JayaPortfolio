@@ -45,7 +45,9 @@ it has two kinds:
 There is one configuration file per page or main component, for example, if you want
 to modify the footer icons and hyperlinks, go to the footerConfig.js file
 
-![Image](footer.png)
+<p>
+    <img src="assests/images/footer.png" width="220" height="240" />
+</p>
 
 Here, you can modify all the values but keep the key's names, structure, and className the same; 
 you can also add new values to the configs containing a list.
