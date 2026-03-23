@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: portfolio
+    env: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: build
+    envVars:
+      - key: CI
+        value: false
+      - key: NODE_VERSION
+        value: 18.18.0
