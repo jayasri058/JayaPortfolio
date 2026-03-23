@@ -45,9 +45,7 @@ it has two kinds:
 There is one configuration file per page or main component, for example, if you want
 to modify the footer icons and hyperlinks, go to the footerConfig.js file
 
-<a>
-    <img src="assests/images/footer.png" width="220" height="240" />
-</a>
+![Image](img width="524" height="551" alt="Image" src="https://github.com/user-attachments/assets/40903ed5-c2a9-4c43-b2ca-ef26176bb3fe" />
 
 Here, you can modify all the values but keep the key's names, structure, and className the same; 
 you can also add new values to the configs containing a list.
@@ -58,7 +56,7 @@ you can also add new values to the configs containing a list.
 This folder keeps images displayed over some routes, like blogs and projects.
 For example, inside the projectsConfig.js file, the list of projects has a property called "image":
 
-![Image](projects_config.png)
+![Image](<img width="715" height="502" alt="Image" src="https://github.com/user-attachments/assets/65887be2-c798-4319-8af4-d8ae7f2d149b" />)
 
 You can set any valid href for the `<a/>` tag as an image URL or, like in the above image, 
 an image from the `assets/images` folder.
