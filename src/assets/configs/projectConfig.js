@@ -112,17 +112,17 @@ const projectConfig = [
         links: [
             {
                 name: "repo",
-                url: "https://github.com/jayasri058/portfolio",
+                url: "https://github.com/jayasri058/JayaPortfolio.git",
                 icon: <AiFillGithub />
             },
             {
                 name: "fork",
-                url: "https://github.com/jayasri058/portfolio/fork",
+                url: "https://github.com/jayasri058/JayaPortfolio/fork",
                 icon: <BiGitRepoForked />
             },
             {
                 name: "subscription",
-                url: "https://github.com/jayasri058/portfolio/subscription",
+                url: "https://github.com/jayasri058/JayaPortfolio/subscription",
                 icon: <AiFillEye />
             }
         ],
